@@ -11,12 +11,14 @@ USB PD Sink コントローラである CH214K を使って、5, 9, 12, 20V 電�
 - Output voltage can be changed.
 - Can be plugged directly into a breadboard.
 - Power on/off switch.
+- With reverse current protection circuit.
 
 ### Japanese
 
 - 出力電圧を変更することができる。
 - ブレッドボードに直接挿すことができる。
 - 電源のオンオフボタンがある。
+- 逆電流保護回路付き。
 
 ## Attention
 
