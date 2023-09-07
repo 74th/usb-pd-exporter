@@ -32,7 +32,7 @@ Use at your own risk.
 
 ## v1.0.1
 
-- Semantics [PDF](./documents/v1.0.1/schematic.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fusb-pd-exporter%2Fblob%2F1.0.1%2Fusb_pd_exporter.kicad_sch)
+- Semantics [PDF](./usb_pd_exporter-v1.0.1-semantics.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fusb-pd-exporter%2Fblob%2F1.0.1%2Fusb_pd_exporter.kicad_sch)
 - PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fusb-pd-exporter%2Fblob%2F1.0.1%2Fusb_pd_exporter.kicad_pcb)
 
 ### BOM
