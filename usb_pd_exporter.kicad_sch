@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "USB PD Exporter")
+    (rev "1.0.1")
+  )
+
   (lib_symbols
     (symbol "$74th:CH224K-USB_PD_Sink_Controller" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -7.62 7.62 0)
@@ -1507,7 +1512,7 @@
     (pin "1" (uuid 2cb35db1-b27f-4be2-b30a-7ba3e1186dad))
     (pin "2" (uuid 15d7c21f-c95a-4880-a5de-8845e03f641d))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "R4") (unit 1)
         )
@@ -1532,7 +1537,7 @@
     )
     (pin "1" (uuid 49800256-d554-428b-84cc-dcf0ff986d96))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#FLG02") (unit 1)
         )
@@ -1558,7 +1563,7 @@
     (pin "1" (uuid 5bc35cb4-851e-44a3-9a25-18d63f224ebe))
     (pin "2" (uuid f827a4af-4537-4e83-86d1-f7c34f4754d9))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "R2") (unit 1)
         )
@@ -1584,7 +1589,7 @@
     (pin "1" (uuid adabe166-41ae-4e95-811c-aec98f949e81))
     (pin "2" (uuid e77ac3a1-b844-40c2-bc70-7f938202a4f0))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "R5") (unit 1)
         )
@@ -1609,7 +1614,7 @@
     )
     (pin "1" (uuid 49738484-9de4-403c-8f5a-c59781049ba9))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR020") (unit 1)
         )
@@ -1634,7 +1639,7 @@
     )
     (pin "1" (uuid f582929e-567b-469a-84ba-caac6ba41937))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR015") (unit 1)
         )
@@ -1659,7 +1664,7 @@
     )
     (pin "1" (uuid a3fb6013-dafc-4d5d-bbc0-90cf59600068))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR02") (unit 1)
         )
@@ -1685,7 +1690,7 @@
     (pin "1" (uuid 27a9b4a9-a40c-4e8b-9f60-cd592e8032c3))
     (pin "2" (uuid eb55977b-3908-458d-b3de-52df6af97a4b))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "CH2") (unit 1)
         )
@@ -1712,7 +1717,7 @@
     (pin "2" (uuid f593ed3e-5c91-40e8-adf4-ec452de84eea))
     (pin "3" (uuid 2887059b-5b05-4cb5-aef8-99a8ff6da824))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "JP2") (unit 1)
         )
@@ -1737,7 +1742,7 @@
     )
     (pin "1" (uuid fb9eea87-0c19-4a45-a908-47b5153a5612))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR011") (unit 1)
         )
@@ -1763,7 +1768,7 @@
     (pin "1" (uuid 5d634246-81c1-40ad-b695-0cf893be4937))
     (pin "2" (uuid da795a4e-f203-4723-a7dd-d7d4b276e28c))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "CH1") (unit 1)
         )
@@ -1788,7 +1793,7 @@
     )
     (pin "1" (uuid e5613749-1771-4038-a078-f523c182ffbf))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR017") (unit 1)
         )
@@ -1813,7 +1818,7 @@
     )
     (pin "1" (uuid a9d28d83-475a-4e32-be6d-7a6922b4b695))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR013") (unit 1)
         )
@@ -1840,7 +1845,7 @@
     (pin "2" (uuid d1173004-260f-4027-9844-5726abfd731e))
     (pin "3" (uuid df012fa8-a7f1-4b09-9a2d-c32c0eed157f))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "CH4") (unit 1)
         )
@@ -1865,7 +1870,7 @@
     )
     (pin "1" (uuid 74a3ce13-0902-4dc2-b52f-daf1e8e9dbcb))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#FLG01") (unit 1)
         )
@@ -1890,7 +1895,7 @@
     )
     (pin "1" (uuid de3fc2cc-7200-41cc-af9f-92d77f720b4d))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR08") (unit 1)
         )
@@ -1925,7 +1930,7 @@
     (pin "8" (uuid 0dd07ca6-56f2-4e7e-ab71-e6b506106b69))
     (pin "9" (uuid 3f202dc6-9081-4995-94aa-8db28712971e))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "U1") (unit 1)
         )
@@ -1950,7 +1955,7 @@
     )
     (pin "1" (uuid 04e29acd-6997-4d2d-b910-64c09b5063ab))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR03") (unit 1)
         )
@@ -1977,7 +1982,7 @@
     (pin "2" (uuid d0a63f26-4ff3-4d85-b768-f01a08f32cc7))
     (pin "3" (uuid 79cfe5aa-2420-429e-927b-736ad8bca1b8))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "JP3") (unit 1)
         )
@@ -2009,7 +2014,7 @@
     (pin "7" (uuid d56ede65-cd04-4792-b44a-6e16917aa0ff))
     (pin "8" (uuid 625db0f3-c567-4baa-aaae-0c1d10918c16))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "Q1") (unit 1)
         )
@@ -2034,7 +2039,7 @@
     )
     (pin "1" (uuid 9f9a98d5-6e69-4e06-be22-d213f6476516))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR05") (unit 1)
         )
@@ -2059,7 +2064,7 @@
     )
     (pin "1" (uuid 14926101-cc8d-499a-a428-76d965cd214f))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR010") (unit 1)
         )
@@ -2085,7 +2090,7 @@
     (pin "1" (uuid 2d58fe35-869c-4f99-9f44-a7b763707bfd))
     (pin "2" (uuid c970fbf6-0f1f-484e-be6d-510dfd642691))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "C1") (unit 1)
         )
@@ -2111,7 +2116,7 @@
     (pin "1" (uuid f5feb8aa-1b06-4104-90c6-ee83f023f7dd))
     (pin "2" (uuid b8288e6e-cd6f-4820-9b4e-6344b9f994b9))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "R1") (unit 1)
         )
@@ -2136,7 +2141,7 @@
     )
     (pin "1" (uuid fd0d6aa6-3e57-4f40-a61c-21f4371c85a4))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR019") (unit 1)
         )
@@ -2161,7 +2166,7 @@
     )
     (pin "1" (uuid 1cc1f55a-56c2-4fc4-a661-ab2a0a465b5e))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR016") (unit 1)
         )
@@ -2186,7 +2191,7 @@
     )
     (pin "1" (uuid c17dec14-bad0-44aa-9b6b-64c663566e79))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR012") (unit 1)
         )
@@ -2211,7 +2216,7 @@
     )
     (pin "1" (uuid dd939233-48d7-4e33-8dd3-8552436aa618))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR06") (unit 1)
         )
@@ -2237,7 +2242,7 @@
     (pin "1" (uuid 058b3356-1253-4add-925d-61c9618c50bf))
     (pin "2" (uuid 886c8d35-75c2-45f2-b773-e8dcfb0d2cb5))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "R3") (unit 1)
         )
@@ -2263,7 +2268,7 @@
     (pin "1" (uuid 756c87c3-3b4e-4c4b-9b4a-dd79646f270c))
     (pin "2" (uuid c311dd85-419d-4028-b901-ddfd4e690367))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "C2") (unit 1)
         )
@@ -2288,7 +2293,7 @@
     )
     (pin "1" (uuid 240ab03a-4eef-4663-9cf5-e410d29b0387))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR021") (unit 1)
         )
@@ -2313,7 +2318,7 @@
     )
     (pin "1" (uuid 572ead3f-d080-4a09-b365-4c0e697c9624))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR04") (unit 1)
         )
@@ -2345,7 +2350,7 @@
     (pin "7" (uuid 8175281d-4872-4573-b492-d776090d4dc9))
     (pin "8" (uuid 1cc48eba-9cf2-4dcc-8786-21125aaaad7c))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "Q1") (unit 2)
         )
@@ -2370,7 +2375,7 @@
     )
     (pin "1" (uuid f29e1c8d-b329-4e70-baba-5e2701e9c172))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR07") (unit 1)
         )
@@ -2395,7 +2400,7 @@
     )
     (pin "1" (uuid dbb9bb3b-0808-42c9-a520-a5b5e60e68de))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR09") (unit 1)
         )
@@ -2425,7 +2430,7 @@
     (pin "5" (uuid c0dda492-cb8a-4729-8de5-fbf26464c26c))
     (pin "6" (uuid ee7dd169-7715-4e9b-a6b9-f07fa4e6fcaa))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "SW1") (unit 1)
         )
@@ -2450,7 +2455,7 @@
     )
     (pin "1" (uuid 066aa4a8-1b62-4fa1-811a-bbfada95d671))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR01") (unit 1)
         )
@@ -2476,7 +2481,7 @@
     (pin "1" (uuid 170c8d8a-0446-4f1c-b0a5-25db7a9a829a))
     (pin "2" (uuid 78e17617-09ab-475e-84fd-851ba6c15c55))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "CH3") (unit 1)
         )
@@ -2506,7 +2511,7 @@
     (pin "5" (uuid 286117e3-7091-43f7-9117-6deec20a1ec3))
     (pin "6" (uuid 64b8a29b-a693-44d7-a05e-3ac99c476ac5))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "J1") (unit 1)
         )
@@ -2531,7 +2536,7 @@
     )
     (pin "1" (uuid 641b2057-233d-4ba5-ad4f-c2a43b7368c0))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "#PWR018") (unit 1)
         )
@@ -2558,7 +2563,7 @@
     (pin "2" (uuid ea5e28d4-356a-4e6a-bfae-2c1d21c8fa3b))
     (pin "3" (uuid 9f1d9cc3-a99e-4ed9-b2dd-cd99a99d1883))
     (instances
-      (project "usb_pd_sink_power"
+      (project "usb_pd_exporter"
         (path "/a99cc065-64ac-4767-b641-118f0f2c222f"
           (reference "JP1") (unit 1)
         )
