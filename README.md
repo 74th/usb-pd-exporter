@@ -18,6 +18,16 @@ USB PD Sink コントローラである CH214K を使って、5, 9, 12, 20V 電�
 - ブレッドボードに直接挿すことができる。
 - 電源のオンオフボタンがある。
 
+## Attention
+
+This product is the work of an electrician hobbyist.
+We do not guarantee any damage in the use of this product.
+Use at your own risk.
+
+このプロダクトは電気工作の趣味人の作品です。
+これの使用における損害は一切保証致しません。
+自己責任で利用ください。
+
 ## v1.0.1
 
 - Semantics [PDF](./documents/v1.0.1/schematic.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fusb-pd-exporter%2Fblob%2F1.0.1%2Fusb_pd_exporter.kicad_sch)
@@ -41,3 +51,9 @@ USB PD Sink コントローラである CH214K を使って、5, 9, 12, 20V 電�
 | Q1        | Pch Dual MOSFET SOIC-8 FDS4935A          | 1        |
 | SW1       | Locking Switch                           | 1        |
 | U1        | USB PD Sink IC ESSOP-10 CH224K           | 1        |
+
+## LICENSE
+
+MIT
+
+日本国内においては、販売はしないでいただけるとありがたいです。
