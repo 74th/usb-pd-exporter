@@ -18,14 +18,12 @@ USB PD Sink コントローラである CH214K を使って、5, 9, 12, 20V 電�
 - ブレッドボードに直接挿すことができる。
 - 電源のオンオフボタンがある。
 
-## documents
-
-### v1.0.1
+## v1.0.1
 
 - Semantics [PDF](./documents/v1.0.1/schematic.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fusb-pd-exporter%2Fblob%2F1.0.1%2Fusb_pd_exporter.kicad_sch)
 - PCB [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fusb-pd-exporter%2Fblob%2F1.0.1%2Fusb_pd_exporter.kicad_pcb)
 
-#### BOM
+### BOM
 
 | Reference | Name                                     | Quantity |
 | --------- | ---------------------------------------- | -------- |
