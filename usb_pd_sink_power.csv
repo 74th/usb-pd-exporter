@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"M2,M1,M3,M4";"M2_v2";4;"M2_v2";;;
+2;"R4,R1";"Register_0805_2012";2;"1k";;;
+3;"CH1";"TerminalBlock_1x02_P2.54mm_Horizontal";1;"Terminal";;;
+4;"R2,R5";"Register_0805_2012";2;"10k";;;
+5;"J1";"USB-C-12-Pin-MidMount-ali-v5";1;"USB-C 2.0 Female";;;
+6;"CH4";"DCJack-BarrelJack";1;"Barrel_Jack_Switch";;;
+7;"CH2,CH3";"2Pin";2;"PinHeader-2";;;
+8;"R3";"Register_0805_2012";1;"100k";;;
+9;"C1,C2";"Capacitor_0805_2012";2;"1u";;;
+10;"SW1";"Locking_Button_8x8mm";1;"Locking_Switch";;;
+11;"REF**,MISC-ACCOUNTTEXT";"74th-text";2;"74th-text";;;
+12;"U1";"ESSOP-10_3.9x5.0mm_P1.0";1;"CH224K";;;
+13;"REF**";"JLCJLCJLCJLC";1;"JLCJLCJLCJLC";;;
+14;"Q1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"FDS4935A";;;
+15;"JP2";"SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"CFG3";;;
+16;"JP1";"SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"CFG1";;;
+17;"JP3";"SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"CFG2";;;
